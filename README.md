@@ -152,8 +152,8 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </table>
 
-## 💻 Operating Systems
 
+## 💻 Operating Systems
 
 ![Windows](https://img.shields.io/badge/WINDOWS-blue)
 
