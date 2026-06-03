@@ -55,12 +55,6 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
-<br>Jenkins
-</td>
-
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=grafana" width="50"/>
 <br>Grafana
 </td>
