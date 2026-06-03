@@ -79,12 +79,12 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Azure-Monitor.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/microsoft/azure-icons/main/icons/Monitor/10001-icon-service-Monitor.svg" width="50"/>
 <br>Azure Monitor
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Application-Insights.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/microsoft/azure-icons/main/icons/Monitor/00012-icon-service-Application-Insights.svg" width="50"/>
 <br>Application Insights
 </td>
 
