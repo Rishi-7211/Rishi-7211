@@ -147,25 +147,6 @@ A Passionate DevOps Engineer from India 🇮🇳
 <img src="https://avatars.githubusercontent.com/u/19514629?s=200"/>
 <br>Harness
 </td>
-
-</tr>
-
-💻 **Operating Systems**
-
-<table>
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=windows" width="50"/><br>Windows
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-
-</tr>
-</table>
-
 ## 💻 Operating Systems
 
 
