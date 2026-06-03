@@ -32,183 +32,157 @@ A Passionate DevOps Engineer from India 🇮🇳
 ## 🛠️ Tech Stack & Tools
 
 
-☁️ Cloud Platform
+## 🛠️ Languages and Tools
+
+
+☁️ **Cloud Platform**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="50"/><br>Azure
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>GCP
+</td>
+</tr>
+</table>
+
+
+🚀 **CI/CD & DevOps**
 
 <table>
 <tr>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=azure" width="50"/>
-<br>Azure
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/><br>Azure DevOps
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/>
-<br>AWS
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
-<br>GCP
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br>GitHub Actions
 </td>
 
 </tr>
 </table>
 
 
-
-🚀 CI/CD
+🏗️ **Infrastructure & Containers**
 
 <table>
 <tr>
 
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
-<br>Azure DevOps
+<img src="https://skillicons.dev/icons?i=terraform" width="50"/><br>Terraform
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
-<br>GitHub Actions
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes
 </td>
 
 </tr>
 </table>
 
 
-
-🏗️ Infrastructure & Containers
+📊 **Monitoring & Logging**
 
 <table>
 <tr>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=terraform" width="50"/>
-<br>Terraform
+<img src="https://skillicons.dev/icons?i=azure" width="50"/><br>Azure Monitor
 </td>
 
-
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<br>Docker
+<img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/><br>Log Analytics
 </td>
 
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=grafana" width="50"/><br>Grafana
+</td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/>
-<br>Kubernetes
+<img src="https://skillicons.dev/icons?i=prometheus" width="50"/><br>Prometheus
 </td>
 
 </tr>
 </table>
 
 
-
-📊 Monitoring & Logging
+🤖 **AI & Modern DevOps Tools**
 
 <table>
 <tr>
 
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/48/azure-1.png" width="50"/>
-<br>Azure Monitor
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub Copilot
 </td>
 
-
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/>
-<br>Log Analytics
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/><br>OpenAI
 </td>
 
-
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=grafana" width="50"/>
-<br>Grafana
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50"/><br>Claude AI
 </td>
 
+<td align="center" width="100">
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="50"/><br>Gemini
+</td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=prometheus" width="50"/>
-<br>Prometheus
+<img src="https://avatars.githubusercontent.com/u/19514629?s=200" width="50"/><br>Harness
 </td>
 
 </tr>
 </table>
 
 
-
-🤖 AI & Modern DevOps Tools
+💻 **Version Control & Scripting**
 
 <table>
 <tr>
 
-
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>GitHub Copilot
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
 </td>
 
-
 <td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
-<br>OpenAI
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
 </td>
 
-
 <td align="center" width="100">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50"/>
-<br>Claude AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/><br>Azure Repos
 </td>
 
-
 <td align="center" width="100">
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="50"/>
-<br>Gemini
+<img src="https://skillicons.dev/icons?i=powershell" width="50"/><br>PowerShell
 </td>
-
-
-<td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/19514629?s=200"
-width="50"/>
-<br>Harness
-</td>
-
 
 </tr>
 </table>
 
 
-
-
-💻 Version Control & Scripting
+💻 **Operating Systems**
 
 <table>
 <tr>
 
-
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br>Git
+<img src="https://skillicons.dev/icons?i=windows" width="50"/><br>Windows
 </td>
 
-
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>GitHub
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
 </td>
-
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
-<br>Azure Repos
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=powershell" width="50"/>
-<br>PowerShell
-</td>
-
 
 </tr>
 </table>
