@@ -29,11 +29,12 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 
 
-## 🛠 Languages and Tools
+## 🛠️ Tech Stack & Tools
 
+
+### ☁️ Cloud Platform
 
 <table>
-
 <tr>
 
 <td align="center" width="100">
@@ -41,34 +42,67 @@ A Passionate DevOps Engineer from India 🇮🇳
 <br>Azure
 </td>
 
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" width="50"/>
+<br>VMs
+</td>
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="50"/>
+<br>AKS
+</td>
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/000000/key.png" width="50"/>
+<br>Key Vault
+</td>
+
+</tr>
+</table>
+
+
+
+### 🚀 DevOps & CI/CD
+
+<table>
+<tr>
 
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
 <br>Azure DevOps
 </td>
 
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-<br>Azure Repos
-</td>
-
-
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="50"/>
-<br>YAML
+<br>YAML Pipeline
 </td>
 
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
+<br>GitHub Actions
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
+<br>Jenkins
+</td>
+
+</tr>
+</table>
+
+
+
+
+### 🏗️ Infrastructure & Containers
+
+
+<table>
+<tr>
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=terraform" width="50"/>
 <br>Terraform
 </td>
-
-</tr>
-
-
-<tr>
 
 
 <td align="center" width="100">
@@ -84,41 +118,21 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br>Git
+<img src="https://helm.sh/img/helm.svg" width="50"/>
+<br>Helm
 </td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
-<br>GitHub Actions
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-<br>Linux
-</td>
-
 
 </tr>
+</table>
 
 
 
+
+### 📊 Monitoring & Logging
+
+
+<table>
 <tr>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bash" width="50"/>
-<br>Bash
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=powershell" width="50"/>
-<br>PowerShell
-</td>
-
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=grafana" width="50"/>
@@ -132,14 +146,112 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 
-</tr>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/azure-1.png" width="50"/>
+<br>Azure Monitor
+</td>
 
+</tr>
 </table>
 
 
 
 
-## ☁️ Cloud & DevOps Skills
+### 🔐 Security & Code Quality
+
+
+<table>
+<tr>
+
+
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/5450340?s=200" width="50"/>
+<br>SonarQube
+</td>
+
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/aquasecurity/tfsec/master/docs/static/imgs/tfsec.png" width="50"/>
+<br>Tfsec
+</td>
+
+
+<td align="center" width="100">
+<img src="https://trufflesecurity.com/images/trufflehog-logo.png" width="50"/>
+<br>TruffleHog
+</td>
+
+
+</tr>
+</table>
+
+
+
+
+### 💻 Version Control & Scripting
+
+
+<table>
+<tr>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<br>Git
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<br>GitHub
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=powershell" width="50"/>
+<br>PowerShell
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
+<br>Bash
+</td>
+
+
+</tr>
+</table>
+
+
+
+
+### 🖥️ OS & Collaboration Tools
+
+
+<table>
+<tr>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<br>Linux
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=windows" width="50"/>
+<br>Windows Server
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+<br>Postman
+</td>
+
+
+</tr>
+</table>
 
 
 
