@@ -29,129 +29,100 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 ## 🛠 Languages and Tools
 
-<table>
+<table align="center">
 
 <tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=azure" width="50"/>
-<br>Azure
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=azure" width="55"/><br>Azure
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/>
-<br>AWS
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
-<br>GCP
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gcp" width="55"/><br>GCP
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
-<br>Azure DevOps
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/azure-devops.png" width="55"/><br>Azure<br>DevOps
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
-<br>GitHub Actions
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/><br>GitHub<br>Actions
 </td>
-
 </tr>
 
 
 <tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=terraform" width="50"/>
-<br>Terraform
+<img src="https://skillicons.dev/icons?i=terraform" width="55"/><br>Terraform
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<br>Docker
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/>
-<br>Kubernetes
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br>Kubernetes
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/azure-1.png" width="50"/>
-<br>Azure Monitor
+<img src="https://img.icons8.com/color/96/azure-1.png" width="55"/><br>Azure<br>Monitor
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="50"/>
-<br>Application Insights
+<img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="55"/><br>Application<br>Insights
 </td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>GitHub
-</td>
-
 </tr>
 
 
 <tr>
-
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
-<br>Azure Repos
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=powershell" width="50"/>
-<br>PowerShell
+<img src="https://skillicons.dev/icons?i=powershell" width="55"/><br>PowerShell
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=grafana" width="50"/>
-<br>Grafana
+<img src="https://skillicons.dev/icons?i=grafana" width="55"/><br>Grafana
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus" width="50"/>
-<br>Prometheus
+<img src="https://skillicons.dev/icons?i=prometheus" width="55"/><br>Prometheus
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/>
-<br>Log Analytics
+<img src="https://img.icons8.com/fluency/96/statistics.png" width="55"/><br>Log<br>Analytics
 </td>
-
 </tr>
 
 
 <tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-<br>Copilot
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>Copilot
 </td>
 
 <td align="center">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50"/>
-<br>Claude AI
+<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/><br>OpenAI
 </td>
 
 <td align="center">
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="50"/>
-<br>Gemini
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/><br>Claude AI
 </td>
 
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/19514629?s=200" width="50"/>
-<br>Harness
+<img src="https://img.icons8.com/color/96/google-logo.png" width="55"/><br>Gemini
 </td>
 
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/1160530?s=200" width="55"/><br>Harness
+</td>
 </tr>
 
 </table>
-
 
 ## 💻 Operating Systems
 
