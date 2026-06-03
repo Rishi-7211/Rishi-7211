@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Sharma</h1>
 
 <p align="center">
-🚀 Azure DevOps Engineer | Cloud Automation | CI/CD | Infrastructure as Code | AI|
+🚀 Azure DevOps Engineer | Cloud Automation | CI/CD | Infrastructure as Code | AI |
 </p>
 
 
