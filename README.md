@@ -79,8 +79,13 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br>Git
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Azure-Monitor.svg" width="50"/>
+<br>Azure Monitor
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Application-Insights.svg" width="50"/>
+<br>Application Insights
 </td>
 
 <td align="center">
