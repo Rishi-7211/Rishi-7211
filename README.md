@@ -185,6 +185,40 @@ A Passionate DevOps Engineer from India 🇮🇳
 </tr>
 </table>
 
+### 🤖 AI & Modern DevOps Tools
+
+
+<table>
+<tr>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<br>GitHub Copilot
+</td>
+
+
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
+<br>OpenAI
+</td>
+
+
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/19514629?s=200&v=4" width="50"/>
+<br>Harness
+</td>
+
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=argocd" width="50"/>
+<br>ArgoCD
+</td>
+
+
+</tr>
+</table>
+
 
 
 
