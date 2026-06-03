@@ -57,7 +57,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 </tr>
 
 
-<!-- Kubernetes & DevOps -->
+<!-- Containers & GitOps -->
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=terraform" width="55"/>
@@ -115,7 +115,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 </tr>
 
 
-<!-- Tools -->
+<!-- DevOps & AI Tools -->
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
@@ -136,23 +136,34 @@ A Passionate DevOps Engineer from India 🇮🇳
 <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55"/>
 <br>Copilot
 </td>
-</tr>
-<!-- AI -->
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/>
-<br>OpenAI
-</td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="55"/>
+<br>OpenAI
+</td>
+</tr>
+
+
+<!-- AI Assistants -->
+<tr>
+
+<td align="center"></td>
+
+<td align="center"></td>
+
+<td align="center">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="55"/>
 <br>Claude AI
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/google-logo.png" width="55"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="55"/>
 <br>Gemini
 </td>
+
+<td align="center"></td>
+
+</tr>
 
 </table>
 
