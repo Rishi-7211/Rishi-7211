@@ -189,7 +189,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 ## 🤝 Connect with me
 
 
-💼 LinkedIn: linkedin.com/in/rishikesh-sharma0208
+💼 LinkedIn: www.linkedin.com/in/rishikesh-sharma0208
 
 📧 Email: srishikesh39@gmail.com
 
