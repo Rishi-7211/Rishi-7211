@@ -31,6 +31,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 <table align="center">
 
+<!-- Cloud & CI/CD -->
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=azure" width="55"/><br>Azure
@@ -50,76 +51,124 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=githubactions" width="55"/><br>GitHub<br>Actions
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/>
+<br>GitHub<br>Actions
 </td>
 </tr>
 
 
+<!-- Kubernetes & DevOps -->
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=terraform" width="55"/><br>Terraform
+<img src="https://skillicons.dev/icons?i=terraform" width="55"/>
+<br>Terraform
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+<br>Docker
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/><br>Kubernetes
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/>
+<br>Kubernetes
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/azure-1.png" width="55"/><br>Azure<br>Monitor
+<img src="https://helm.sh/img/helm.svg" width="55"/>
+<br>Helm
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="55"/><br>Application<br>Insights
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="55"/>
+<br>ArgoCD
 </td>
 </tr>
 
 
+<!-- Monitoring -->
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+<img src="https://img.icons8.com/color/96/azure-1.png" width="55"/>
+<br>Azure<br>Monitor
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=powershell" width="55"/><br>PowerShell
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=grafana" width="55"/><br>Grafana
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus" width="55"/><br>Prometheus
+<img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="55"/>
+<br>Application<br>Insights
 </td>
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/96/azure-1.png" width="55"/>
-<br>Azure Log<br>Analytics Workspace
+<br>Log Analytics<br>Workspace
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=grafana" width="55"/>
+<br>Grafana
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prometheus" width="55"/>
+<br>Prometheus
+</td>
+</tr>
+
+
+<!-- Tools -->
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>Copilot
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<br>GitHub
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/><br>OpenAI
+<img src="https://skillicons.dev/icons?i=powershell" width="55"/>
+<br>PowerShell
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/><br>Claude AI
+<img src="https://avatars.githubusercontent.com/u/1160530?s=200" width="55"/>
+<br>Harness
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/google-logo.png" width="55"/><br>Gemini
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<br>VS Code
 </td>
 
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/1160530?s=200" width="55"/><br>Harness
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55"/>
+<br>Copilot
+</td>
+</tr>
+
+
+<!-- AI -->
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/chatgpt.png" width="55"/>
+<br>OpenAI
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+<br>Claude AI
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/google-logo.png" width="55"/>
+<br>Gemini
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+<br>AI Tools
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<br>Git
 </td>
 </tr>
 
