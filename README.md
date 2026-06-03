@@ -27,12 +27,6 @@ A Passionate DevOps Engineer from India 🇮🇳
 - ⚡ Passionate about **Automation, Cloud & Infrastructure**
 - 📫 Reach me: **srishikesh39@gmail.com**
 
-
-
-
-## 🛠️ Languages and Tools
-
-
 ## 🛠️ Languages and Tools
 
 <table>
@@ -155,24 +149,6 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 </tr>
-
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=windows" width="50"/>
-<br>Windows
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-<br>Linux
-</td>
-
-</tr>
-
-
-</table>
 
 💻 **Operating Systems**
 
