@@ -45,7 +45,8 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center" width="120">
-<img src="https://img.icons8.com/color/96/azure-devops.png" width="55"/><br>Azure<br>DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="55"/>
+<br>Azure<br>DevOps
 </td>
 
 <td align="center" width="120">
