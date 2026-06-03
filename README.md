@@ -29,7 +29,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 ## 🛠 Languages and Tools
 
-<table align="center">
+<table align="left">
 
 <!-- Cloud & CI/CD -->
 <tr>
