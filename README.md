@@ -79,12 +79,12 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/microsoft/azure-icons/icons/Monitor/10001-icon-service-Monitor.svg" width="50"/>
+<img src="https://img.icons8.com/color/96/azure-1.png" width="50"/>
 <br>Azure Monitor
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/microsoft/azure-icons/icons/Monitor/00012-icon-service-Application-Insights.svg" width="50"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="50"/>
 <br>Application Insights
 </td>
 
