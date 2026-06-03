@@ -176,24 +176,17 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 ## 📊 GitHub Activity
 
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi-7211)](https://github-readme-activity-graph.vercel.app/graph?username=RisikesSharma)
-
-
+![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RisikesSharma&theme=react-dark)
 
 
 ## 📈 GitHub Stats
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi-7211&show_icons=true)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RisikesSharma&show_icons=true&theme=tokyonight)
 
 
 ## 🔥 Most Used Languages
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-7211&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisikesSharma&layout=compact&theme=tokyonight)
 
 
 
