@@ -7,7 +7,7 @@
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishi-7211&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi-7211&style=flat-square) 
 
 </p>
 
