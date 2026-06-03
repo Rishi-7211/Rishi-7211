@@ -96,9 +96,9 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/statistics.png" width="55"/><br>Log<br>Analytics
+<img src="https://img.icons8.com/fluency/96/azure-1.png" width="55"/>
+<br>Azure Log<br>Analytics Workspace
 </td>
-</tr>
 
 
 <tr>
