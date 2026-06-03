@@ -32,7 +32,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 ## 🛠️ Tech Stack & Tools
 
 
-### ☁️ Cloud Platform
+## ☁️ Cloud Platform
 
 <table>
 <tr>
