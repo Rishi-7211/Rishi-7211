@@ -27,7 +27,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 - ⚡ Passionate about **Automation, Cloud & Infrastructure**
 - 📫 Reach me: **srishikesh39@gmail.com**
 
-## 🛠️ Languages and Tools
+## 🛠 Languages and Tools
 
 <table>
 
@@ -144,9 +144,14 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/19514629?s=200"/>
+<img src="https://avatars.githubusercontent.com/u/19514629?s=200" width="50"/>
 <br>Harness
 </td>
+
+</tr>
+
+</table>
+
 ## 💻 Operating Systems
 
 
