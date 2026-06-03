@@ -32,7 +32,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 ## 🛠️ Tech Stack & Tools
 
 
-## ☁️ Cloud Platform
+☁️ Cloud Platform
 
 <table>
 <tr>
@@ -43,23 +43,22 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/48/000000/azure-1.png" width="50"/>
-<br>VMs
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br>AWS
 </td>
 
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="50"/>
-<br>AKS
-</td>
-
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/000000/key.png" width="50"/>
-<br>Key Vault
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+<br>GCP
 </td>
 
 </tr>
 </table>
-### 🚀 DevOps & CI/CD
+
+
+
+🚀 CI/CD
+
 <table>
 <tr>
 
@@ -69,23 +68,17 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="50"/>
-<br>YAML Pipeline
-</td>
-
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
 <br>GitHub Actions
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
-<br>Jenkins
-</td>
-
 </tr>
 </table>
-### 🏗️ Infrastructure & Containers
+
+
+
+🏗️ Infrastructure & Containers
+
 <table>
 <tr>
 
@@ -106,17 +99,27 @@ A Passionate DevOps Engineer from India 🇮🇳
 <br>Kubernetes
 </td>
 
-
-<td align="center" width="100">
-<img src="https://helm.sh/img/helm.svg" width="50"/>
-<br>Helm
-</td>
-
 </tr>
 </table>
-### 📊 Monitoring & Logging
+
+
+
+📊 Monitoring & Logging
+
 <table>
 <tr>
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/azure-1.png" width="50"/>
+<br>Azure Monitor
+</td>
+
+
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/>
+<br>Log Analytics
+</td>
+
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=grafana" width="50"/>
@@ -129,40 +132,13 @@ A Passionate DevOps Engineer from India 🇮🇳
 <br>Prometheus
 </td>
 
-
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/azure-1.png" width="50"/>
-<br>Azure Monitor
-</td>
-
 </tr>
 </table>
-### 🔐 Security & Code Quality
-<table>
-<tr>
 
 
-<td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/5450340?s=200" width="50"/>
-<br>SonarQube
-</td>
 
+🤖 AI & Modern DevOps Tools
 
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/aquasecurity/tfsec/master/docs/static/imgs/tfsec.png" width="50"/>
-<br>Tfsec
-</td>
-
-
-<td align="center" width="100">
-<img src="https://trufflesecurity.com/images/trufflehog-logo.png" width="50"/>
-<br>TruffleHog
-</td>
-
-
-</tr>
-</table>
-### 🤖 AI & Modern DevOps Tools
 <table>
 <tr>
 
@@ -175,25 +151,26 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 <td align="center" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
-<br>ChatGPT / OpenAI
+<br>OpenAI
+</td>
+
+
+<td align="center" width="100">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="50"/>
+<br>Claude AI
 </td>
 
 
 <td align="center" width="100">
 <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="50"/>
-<br>Google Gemini
+<br>Gemini
 </td>
 
 
 <td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/19514629?s=200&v=4" width="50"/>
+<img src="https://avatars.githubusercontent.com/u/19514629?s=200"
+width="50"/>
 <br>Harness
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=argocd" width="50"/>
-<br>ArgoCD
 </td>
 
 
@@ -203,8 +180,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 
 
-### 💻 Version Control & Scripting
-
+💻 Version Control & Scripting
 
 <table>
 <tr>
@@ -223,52 +199,19 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 
 <td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50"/>
+<br>Azure Repos
+</td>
+
+
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=powershell" width="50"/>
 <br>PowerShell
 </td>
 
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bash" width="50"/>
-<br>Bash
-</td>
-
-
 </tr>
 </table>
-
-
-
-
-### 🖥️ OS & Collaboration Tools
-
-
-<table>
-<tr>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-<br>Linux
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=windows" width="50"/>
-<br>Windows Server
-</td>
-
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postman" width="50"/>
-<br>Postman
-</td>
-
-
-</tr>
-</table>
-
-
 
 ## 💻 Operating Systems
 
