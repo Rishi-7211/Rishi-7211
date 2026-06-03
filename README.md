@@ -59,11 +59,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </tr>
 </table>
-
-
-
 ### 🚀 DevOps & CI/CD
-
 <table>
 <tr>
 
@@ -89,13 +85,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </tr>
 </table>
-
-
-
-
 ### 🏗️ Infrastructure & Containers
-
-
 <table>
 <tr>
 
@@ -124,13 +114,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </tr>
 </table>
-
-
-
-
 ### 📊 Monitoring & Logging
-
-
 <table>
 <tr>
 
@@ -153,13 +137,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </tr>
 </table>
-
-
-
-
 ### 🔐 Security & Code Quality
-
-
 <table>
 <tr>
 
@@ -184,10 +162,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 </tr>
 </table>
-
 ### 🤖 AI & Modern DevOps Tools
-
-
 <table>
 <tr>
 
@@ -200,7 +175,13 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 <td align="center" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"/>
-<br>OpenAI
+<br>ChatGPT / OpenAI
+</td>
+
+
+<td align="center" width="100">
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="50"/>
+<br>Google Gemini
 </td>
 
 
