@@ -133,16 +133,10 @@ A Passionate DevOps Engineer from India 🇮🇳
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-<br>VS Code
-</td>
-
-<td align="center">
 <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="55"/>
 <br>Copilot
 </td>
 </tr>
-
 
 <!-- AI -->
 <tr>
@@ -160,17 +154,6 @@ A Passionate DevOps Engineer from India 🇮🇳
 <img src="https://img.icons8.com/color/96/google-logo.png" width="55"/>
 <br>Gemini
 </td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
-<br>AI Tools
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-<br>Git
-</td>
-</tr>
 
 </table>
 
