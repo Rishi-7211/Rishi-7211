@@ -137,7 +137,6 @@ A Passionate DevOps Engineer from India 🇮🇳
 <br>Copilot
 </td>
 </tr>
-
 <!-- AI -->
 <tr>
 <td align="center">
