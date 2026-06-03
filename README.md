@@ -155,9 +155,21 @@ A Passionate DevOps Engineer from India 🇮🇳
 
 ## 💻 Operating Systems
 
-![Windows](https://img.shields.io/badge/WINDOWS-blue)
+<table>
+<tr>
 
-![Linux](https://img.shields.io/badge/LINUX-yellow)
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=windows" width="50"/>
+<br>Windows Server
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<br>Linux
+</td>
+
+</tr>
+</table>
 
 
 
