@@ -39,10 +39,6 @@
 <br>Kubernetes
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<br>Python
-</td>
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
