@@ -177,7 +177,7 @@ A Passionate DevOps Engineer from India 🇮🇳
 ## 📊 GitHub Activity
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi-7211)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi-7211)](https://github-readme-activity-graph.vercel.app/graph?username=RisikesSharma)
 
 
 
